@@ -1,5 +1,6 @@
 {
-  “names”: {
-    “patrick”: “6d1767513b66077648aa376b49bf73f6123dc471e93af6dfe7a81b3b4ceb1c7c”
-  }
+  "pubkey": "6d1767513b66077648aa376b49bf73f6123dc471e93af6dfe7a81b3b4ceb1c7c",
+  "kind": 0,
+  "content": "{\"name\": \"patrick\", \"nip05\": \"patrick@kisstupid.world\"}"
+  ...
 }
